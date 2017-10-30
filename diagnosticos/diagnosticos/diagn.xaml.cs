@@ -18,7 +18,7 @@ namespace diagnosticos
         FirebaseClient firebase;
         String x;
         String nombre;
-        public diagn (String name)
+        public diagn (String name)//Navigation.PushAsync(new diagn(p.his)); en el main le enviamos un observe collection y cambiar los parametros
 		{
             
             //histo = his;
