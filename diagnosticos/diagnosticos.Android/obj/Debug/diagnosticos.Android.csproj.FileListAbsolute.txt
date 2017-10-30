@@ -45,3 +45,11 @@ C:\Users\Visitante\source\repos\diagnosticos\diagnosticos\diagnosticos.Android\o
 C:\Users\Visitante\source\repos\diagnosticos\diagnosticos\diagnosticos.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\Visitante\source\repos\diagnosticos\diagnosticos\diagnosticos.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
 C:\Users\Visitante\source\repos\diagnosticos\diagnosticos\diagnosticos.Android\obj\Debug\diagnosticos.Droid.diagn.xaml.g.cs
+C:\Users\Visitante\source\repos\diagnosticos\diagnosticos\diagnosticos.Android\bin\Debug\crypto.dll
+C:\Users\Visitante\source\repos\diagnosticos\diagnosticos\diagnosticos.Android\bin\Debug\Firebase.Xamarin.dll
+C:\Users\Visitante\source\repos\diagnosticos\diagnosticos\diagnosticos.Android\bin\Debug\JWT.dll
+C:\Users\Visitante\source\repos\diagnosticos\diagnosticos\diagnosticos.Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Visitante\source\repos\diagnosticos\diagnosticos\diagnosticos.Android\bin\Debug\System.Reactive.Core.dll
+C:\Users\Visitante\source\repos\diagnosticos\diagnosticos\diagnosticos.Android\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\Visitante\source\repos\diagnosticos\diagnosticos\diagnosticos.Android\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Visitante\source\repos\diagnosticos\diagnosticos\diagnosticos.Android\bin\Debug\System.Reactive.PlatformServices.dll

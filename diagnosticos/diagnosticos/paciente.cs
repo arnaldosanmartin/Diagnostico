@@ -8,8 +8,9 @@ namespace diagnosticos
     {
         public string name { get; set; }
         public IList<String> his;
+        public string id { get; set; }
 
-        public paciente(String Name, IList<String> His)
+    public paciente(String Name, IList<String> His)
         {
             this.name = Name;
             this.his = His;
